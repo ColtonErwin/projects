@@ -1,2 +1,0 @@
-# projects
-yes smith
